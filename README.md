@@ -2,4 +2,4 @@
 
 hello haha
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](asan-juan-mountains (1).avif "San Juan Mountains")
