@@ -5,3 +5,6 @@ I was intrigued by the "layer upon layer" cloud art piece I found on OpenProcess
 
 ![example!](/assets/images/WechatIMG49.jpg "example")
 ![example!](/assets/images/WechatIMG50.jpg "example")
+
+Part.2
+The provided code leverages Perlin noise to generate natural, continuous random paths, laying the foundation for intricate cloud structures in p5.js. By constructing multi-level details using circles and walk paths, the clouds achieve depth and complexity. The asynchronous rendering with deliberate delays ensures a progressive visual unveiling of the artwork. This method, inspired by p5.js and noise-driven techniques, effectively simulates the desired cloud imaging with an organic, dynamic emergence, enhancing visual realism and appeal.
